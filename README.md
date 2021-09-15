@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1LP6JUNkIGQ0ocDeTJ4Swe23AssoXoZrZLsMRaQ-h
 
 # Buy awards at Crownawards
 https://www.crownawards.com/StoreFront/TRP.Trophies.cat
+
+# website for more details
+https://navr19.wixsite.com/v-luv-vb
